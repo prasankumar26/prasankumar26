@@ -16,17 +16,33 @@ Experienced Front-End Developer with a passion for crafting user-friendly and vi
 
 ## 🚀 Projects
 
-### Project 1 Name
-Brief description of the project. Highlight your role, technologies used, and any remarkable outcomes.
+### Save Your Jobs
+Created Save Your Jobs app using MERN(MongoDB,Express,ReactJS,NodeJs), You can Add Jobs, Edit Jobs Track and Filter your Jobs In real Time. It is a Jobs Management App...
 
-![Project 1 Screenshot](link-to-screenshot.png)
-[Check it out](link-to-live-project)
+![Project 1 Screenshot](https://prasankumar.netlify.app/img/saveyourjobs.png)
 
-### Project 2 Name
-Brief description of the project. Highlight your role, technologies used, and any remarkable outcomes.
+### AG Empress Project
 
-![Project 2 Screenshot](link-to-screenshot.png)
-[Check it out](link-to-live-project)
+I've had the privilege of working on the AG Empress project, where I contributed to creating three distinct portals:
+
+#### Admin Portal
+- Built using React and TypeScript for enhanced type safety.
+- Leveraged AWS services for secure authentication and data storage.
+- Developed interactive dashboards for efficient management of resources.
+- Utilized Bootstrap for responsive and modern UI components.
+
+#### Vendor Portal
+- Developed with Next.js to ensure server-side rendering and optimal performance.
+- Implemented user authentication and authorization using AWS Cognito.
+- Integrated AWS Lambda functions for serverless backend logic.
+- Designed a user-friendly interface using custom CSS styles and Bootstrap.
+
+#### Customer Web Portal
+- Built responsive UI components with HTML, CSS, and Bootstrap.
+- Integrated the front end with AWS backend services.
+- Ensured seamless user experiences across different devices and screen sizes.
+
+![Project 2 Screenshot](https://cdn.dribbble.com/users/4158917/screenshots/7643924/media/658325645b894106c6b43ab34928270d.jpg)
 
 ## 🌱 What I'm Learning
 
@@ -39,12 +55,12 @@ Share your ongoing learning journey, courses, or technologies you're currently e
 
 Feel free to reach out! I'm open to collaborations and discussions on front-end development, web design, and tech in general.
 
-[LinkedIn](https://www.linkedin.com/in/your-profile)
-[Portfolio Website](https://www.your-portfolio-website.com)
+[LinkedIn](https://www.linkedin.com/in/prasan26/)
 
 ## 🎨 Fun Fact
 
 Share a fun personal fact that showcases your personality outside of coding.
 
-> Fun coding fact here.
+> Did you know that the first computer bug was quite literal? In 1947, when working on the Harvard Mark II computer, a moth got trapped in one of the relays, causing a malfunction. The engineers taped the moth to the logbook and wrote "First actual case of bug being found" – and that's where the term "debugging" originates from!
+
 
