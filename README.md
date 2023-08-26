@@ -19,8 +19,6 @@ Experienced Front-End Developer with a passion for crafting user-friendly and vi
 ### Save Your Jobs
 Created Save Your Jobs app using MERN(MongoDB,Express,ReactJS,NodeJs), You can Add Jobs, Edit Jobs Track and Filter your Jobs In real Time. It is a Jobs Management App...
 
-![Project 1 Screenshot](https://prasankumar.netlify.app/img/saveyourjobs.png)
-
 ### AG Empress Project
 
 I've had the privilege of working on the AG Empress project, where I contributed to creating three distinct portals:
