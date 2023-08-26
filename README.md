@@ -14,6 +14,8 @@ Experienced Front-End Developer with a passion for crafting user-friendly and vi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+![AG Empress](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1380&t=st=1693023681~exp=1693024281~hmac=ebebf5d6401dbbd7c57e6608150c26277458f0907008437afc017478d6351634)
+
 ## 🚀 Projects
 
 ### Save Your Jobs
@@ -40,7 +42,7 @@ I've had the privilege of working on the AG Empress project, where I contributed
 - Integrated the front end with AWS backend services.
 - Ensured seamless user experiences across different devices and screen sizes.
 
-![Project 2 Screenshot](https://cdn.dribbble.com/users/4158917/screenshots/7643924/media/658325645b894106c6b43ab34928270d.jpg)
+![AG Empress](https://cdn.dribbble.com/users/4158917/screenshots/7643924/media/658325645b894106c6b43ab34928270d.jpg)
 
 ## 🌱 What I'm Learning
 
