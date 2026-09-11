@@ -34,7 +34,7 @@ I've had the opportunity to work on the **QCare Healthcare Adjudication project*
 - Managed application state using **Redux Toolkit**.
 - Worked with **dynamic forms and healthcare data workflows**.
 
-![Qcare]([https://cdn.dribbble.com/users/4158917/screenshots/7643924/media/658325645b894106c6b43ab34928270d.jpg](https://cdn.dribbble.com/userupload/27223156/file/original-14d104e3f45f2088596a6f5dde536e20.png?resize=2048x1536&vertical=center))
+![Qcare](https://cdn.dribbble.com/userupload/27223156/file/original-14d104e3f45f2088596a6f5dde536e20.png?resize=2048x1536&vertical=center)
 
 ## 🌱 What I'm Learning
 
