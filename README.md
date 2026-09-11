@@ -1,6 +1,8 @@
 # Hi there, I'm Prasan Kumar 👋
 
-Experienced Front-End Developer with a passion for crafting user-friendly and visually appealing web applications. With over 3.5 years of professional experience, I specialize in turning design concepts into responsive and interactive websites. I'm enthusiastic about staying up-to-date with the latest web technologies and best practices to deliver top-notch user experiences.
+Experienced Front-End Developer with a passion for crafting user-friendly and visually appealing web applications. With over 6+ years of professional experience, I specialize in turning design concepts into responsive and interactive web apps. I'm enthusiastic about staying up-to-date with the latest web technologies, best practices, and AI-powered development tools to deliver top-notch user experiences.
+
+I leverage AI tools such as **GitHub Copilot, Claude, and ChatGPT** to improve development productivity, explore solutions, generate code, debug issues, and accelerate the development workflow.
 
 ## 🔧 Technologies & Tools
 
@@ -17,9 +19,6 @@ Experienced Front-End Developer with a passion for crafting user-friendly and vi
 ![AG Empress](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1380&t=st=1693023681~exp=1693024281~hmac=ebebf5d6401dbbd7c57e6608150c26277458f0907008437afc017478d6351634)
 
 ## 🚀 Projects
-
-### Save Your Jobs
-Created Save Your Jobs app using MERN(MongoDB,Express,ReactJS,NodeJs), You can Add Jobs, Edit Jobs Track and Filter your Jobs In real Time. It is a Jobs Management App...
 
 ### QCare Project
 
