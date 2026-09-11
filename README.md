@@ -21,28 +21,20 @@ Experienced Front-End Developer with a passion for crafting user-friendly and vi
 ### Save Your Jobs
 Created Save Your Jobs app using MERN(MongoDB,Express,ReactJS,NodeJs), You can Add Jobs, Edit Jobs Track and Filter your Jobs In real Time. It is a Jobs Management App...
 
-### AG Empress Project
+### QCare Project
 
-I've had the privilege of working on the AG Empress project, where I contributed to creating three distinct portals:
+I've had the opportunity to work on the **QCare Healthcare Adjudication project**, a healthcare application focused on reviewing, validating, and processing claims through multiple workflows.
 
-#### Admin Portal
-- Built using React and TypeScript for enhanced type safety.
-- Leveraged AWS services for secure authentication and data storage.
-- Developed interactive dashboards for efficient management of resources.
-- Utilized Bootstrap for responsive and modern UI components.
+#### Healthcare Adjudication Application
 
-#### Vendor Portal
-- Developed with Next.js to ensure server-side rendering and optimal performance.
-- Implemented user authentication and authorization using AWS Cognito.
-- Integrated AWS Lambda functions for serverless backend logic.
-- Designed a user-friendly interface using custom CSS styles and Bootstrap.
+- Built using **React.js and JavaScript** for a responsive user interface.
+- Developed reusable UI components using **React.js and Material UI (MUI)**.
+- Implemented **claim processing and validation workflows**.
+- Integrated **REST APIs using Axios** for backend communication.
+- Managed application state using **Redux Toolkit**.
+- Worked with **dynamic forms and healthcare data workflows**.
 
-#### Customer Web Portal
-- Built responsive UI components with HTML, CSS, and Bootstrap.
-- Integrated the front end with AWS backend services.
-- Ensured seamless user experiences across different devices and screen sizes.
-
-![AG Empress](https://cdn.dribbble.com/users/4158917/screenshots/7643924/media/658325645b894106c6b43ab34928270d.jpg)
+![Qcare]([https://cdn.dribbble.com/users/4158917/screenshots/7643924/media/658325645b894106c6b43ab34928270d.jpg](https://cdn.dribbble.com/userupload/27223156/file/original-14d104e3f45f2088596a6f5dde536e20.png?resize=2048x1536&vertical=center))
 
 ## 🌱 What I'm Learning
 
